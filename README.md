@@ -117,7 +117,7 @@ Your score has been saved." and an "OK" button to close the application. The use
 
 **Figure 2** displays a class design, providing an understandable, modular, and structured blueprint for components that make up this applciation
 
-![Class Design](class_design.png)
+![Class Design](class_design2.png)
 **Figure 2: Class Design** 
 (Source: Own design)
 
